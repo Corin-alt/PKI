@@ -1,0 +1,4 @@
+pip>=20.0.0
+PySide6
+paho-mqtt
+cryptography
